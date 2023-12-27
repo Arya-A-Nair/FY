@@ -1,0 +1,4 @@
+Roll no.		 Name		Maths		Python		Chem
+    1		Aditya		30		30		30
+    2		Franklin	29		28		27
+    3		Lamar		28		29		30

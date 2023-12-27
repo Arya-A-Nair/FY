@@ -1,0 +1,9 @@
+What is the full form of CPU?
+1 Central processing Unit
+2 Control processing unit
+Which of the following computer language is written in binary codes only?
+1 machine language
+2 C
+Which of the following is the smallest unit of data in a computer?
+1 1Bit
+2 KB
